@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Create Web Server
+=======
+// Create a Web Server
+>>>>>>> 2c7ed71ee9b7ef97089e5a1a08355db6350a8b94
 const express = require('express');
 const app = express();
 const port = 3000;
